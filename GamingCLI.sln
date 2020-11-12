@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FirstGame", "FirstGame\FirstGame.pyproj", "{5B1341F1-C17B-4256-A4C5-381DD35AC7DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B1341F1-C17B-4256-A4C5-381DD35AC7DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1341F1-C17B-4256-A4C5-381DD35AC7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8A94D9E-D31E-43F1-90FC-69D5FD5DA262}
+	EndGlobalSection
+EndGlobal
